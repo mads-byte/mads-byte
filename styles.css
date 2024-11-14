@@ -53,8 +53,12 @@ p {
   font-family: "Aldrich", serif;
 }
 .btn {
-  text-decoration: none; background-color:#6a5aa1; padding: 10px;
+  text-decoration: none; 
+  background-color:#6a5aa1; 
+  padding: 10px;
   transition: 0.3s;
+  font-family: "Aldrich", serif;
+  color: white;
 }
 .btn:hover {
  
@@ -549,7 +553,9 @@ textarea {
     min-width: 90%;
   }
 
-  
+  .btn {
+    margin-top: 50px;
+  }
 
   .about {
     flex-direction: column;
