@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mads-byte
 - 👀 I’m interested in pc building and full stack development
-- 🌱 I’m currently learning JavaScript and Mandarin Chinese
+- 🌱 I’m currently learning JavaScript and Korean
 - ⚡ Fun fact: I want to move to Puerto Rico some day
 
 <!---
