@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Madison Butler</h1>
 
 
-🌱 I’m currently learning **AWS**
+🌱 I’m currently learning **AWS** <br>
+⭐️ If I'm not coding, I'm reading comic books!
 <img align="right" alt="Coding" width="300" src="https://i.gifer.com/JXA0.gif">
 
 
