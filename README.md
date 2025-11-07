@@ -70,8 +70,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mads-byte&show_icons=true&theme=dark&locale=en&layout=compact" alt="mads-byte" /></p>
 
-<br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mads-byte&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
+
 <br><br><br><br><br><br><br><br><br><br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mads-byte&theme=dark" alt="anii693" /></p>
