@@ -76,6 +76,9 @@
 - Git
 - Visual Studio Code
 - macOS
+  
+**Extras:**
+- Prompt Engineering
 
 
 
