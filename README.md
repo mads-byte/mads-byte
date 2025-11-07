@@ -59,6 +59,24 @@
 </p>
 <br>
 
+**Frontend:**
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Bootstrap
+- Materialize CSS
+
+**Backend:**
+- Node.js
+- Express.js
+- MySQL
+
+**Tools & Environment:**
+- Git
+- Visual Studio Code
+- macOS
+
 
 
 <hr width="36%" >
