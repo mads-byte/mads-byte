@@ -95,7 +95,7 @@
 
 <br><br><br><br><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mads-byte&theme=dark" alt="anii693" /></p>
+<!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mads-byte&theme=dark"  /></p> -->
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
@@ -109,4 +109,4 @@
 
 [Mads-Byte](https://github.com/mads-byte)
 
-Last Edited on: 11/07/2025
+Last Edited on: 11/18/2025
